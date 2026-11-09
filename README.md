@@ -52,8 +52,6 @@ A maze-chase game that runs entirely in your terminal. It is written in pure Pyt
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
 python3 -m maze_hunter
 ```
 
